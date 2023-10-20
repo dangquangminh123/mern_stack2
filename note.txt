@@ -1,0 +1,2 @@
+tại folder frontend ghi tải về phải npm install --save --legacy-peer-deps
+rồi sau đó mới npm install
